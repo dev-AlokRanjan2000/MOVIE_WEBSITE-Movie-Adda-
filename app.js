@@ -40,7 +40,7 @@ function showSlider(type){
     runTimeOut = setTimeout(() => {
         carouselDom.classList.remove('next');
         carouselDom.classList.remove('prev');
-    },
+    }, timeRunning);
 
 }
 
