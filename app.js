@@ -42,7 +42,9 @@ function showSlider(type){
         carouselDom.classList.remove('prev');
     }, timeRunning);
 
-    clearInterval.apply()
+    clearInterval.apply(
+        
+    )
 
 }
 
