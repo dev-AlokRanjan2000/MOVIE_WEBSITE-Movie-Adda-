@@ -48,3 +48,7 @@ function showSlider(type){
 
 }
 
+.class{
+    
+}
+
