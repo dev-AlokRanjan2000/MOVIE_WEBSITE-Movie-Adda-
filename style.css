@@ -364,7 +364,12 @@ header{
     .carousel .list .item .content h1{
       font-size: 40px
     }
-    
+    .details p{
+      font-size: 17px;
+    }
+    .content h4{
+      margin: 10px 0;
+    }
 
 
 
