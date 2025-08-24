@@ -373,23 +373,3 @@ header{
 
 
 
-
-    .vid-box{
-      margin-top: 20px;
-    }
-    nav{
-      display: none
-    }
-    header {
-      padding: 0 10px;
-    }
-    .content{
-      top: 10%;
-    }
-    .thumbnail{
-      top: 75%;
-    }
-    .arrows{
-      left: 15%;
-    }
-  }
