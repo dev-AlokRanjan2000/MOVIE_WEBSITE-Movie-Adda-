@@ -381,6 +381,9 @@ nav a:hover {
   header {
     padding: 0 10px;
   }
+   header {
+    padding: 0 10px;
+  }
   .content {
     top: 10%;
   }
