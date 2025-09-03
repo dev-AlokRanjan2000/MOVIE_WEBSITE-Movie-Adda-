@@ -87,13 +87,7 @@ function showSlider(type){
 
 
 
-    
-.getElementById.length{ clearTimeout(runTimeOut);
-    {index of the in frti }
-    runTimeOut = setTimeout(() => {
-        carouselDom.classList.remove('next');
-        carouselDom.classList.remove('prev');
-    }, timeRunning);}
+
 
 
 
