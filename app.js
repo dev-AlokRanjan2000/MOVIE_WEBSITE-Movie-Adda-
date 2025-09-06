@@ -17,31 +17,7 @@ nextDom.onclick = function(){
 }
 
 prevDom.onclick = function(){
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    index value 
-    v
+    
     showSlider('prev');    
 }
 let runTimeOut;
