@@ -37,12 +37,7 @@ function showSlider(type){
         carouselDom.classList.add('prev');
 
     }
-    }else{
-        SliderDom.prepend(SliderItemsDom[SliderItemsDom.length - 1]);
-        thumbnailBorderDom.prepend(thumbnailItemsDom[thumbnailItemsDom.length - 1]);
-        carouselDom.classList.add('prev');
-
-    }
+    
     clearTimeout(runTimeOut);
     {index of the in frti }
     runTimeOut = setTimeout(() => {
