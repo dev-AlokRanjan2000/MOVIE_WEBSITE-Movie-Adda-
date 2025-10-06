@@ -49,7 +49,7 @@ function showSlider(type){
         
     )
 
-}...SliderDom..Lghfuthcviyfvbm
+}
 
 
 
