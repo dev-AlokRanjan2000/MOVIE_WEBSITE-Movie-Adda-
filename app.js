@@ -49,7 +49,10 @@ function showSlider(type){
         
     )
 
-}
+} 
+
+
+.INDEX OF TRHE   FOR THE TIME OF THE IN DEX OF THE FORMATION OPF THE IN FED {setInterval{}}
 
 
 
